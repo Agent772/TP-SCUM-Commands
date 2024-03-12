@@ -1,1 +1,6 @@
-#SpawnVehicle BPC_WolfsWagen 1 Modifier MinimalFunctional
+#SpawnVehicle BPC_WolfsWagen 1 Modifier MinimalFunctional;
+#spawnitem WW_Body_Back 1;
+#spawnitem WW_Body_Front 1;
+#spawnitem WW_Body_Left 1;
+#spawnitem WW_Body_Right 1;
+#spawnitem WW_Body_Top 1;
