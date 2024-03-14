@@ -25,3 +25,5 @@
 #spawnitem Waist_Bag_Small_02 1;
 #SpawnItem Cal_7_62x39mm_AP_Ammobox 2;
 #SpawnItem Lock_Item_Advanced;
+#SpawnItem Sewing_kit 2;
+#SpawnItem Phoenix_Tears 3;
