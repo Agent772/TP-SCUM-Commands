@@ -14,7 +14,7 @@
 #spawnitem Open_Finger_Gloves_02 1;
 #spawnitem ScopeRail_AK47 1;
 #spawnitem Weapon_RPK-74 1;
-#spawnitem Magazine_RPK 5;
+#SpawnItem Magazine_RPK 1 AmmoCount 75;
 #spawnitem Tactical_Handgun_Holster_02 1;
 #spawnitem Tactical_Jacket_01_02 1;
 #spawnitem MilitaryPants_02 1;
