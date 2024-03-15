@@ -1,5 +1,1 @@
-#SpawnVehicle BPC_Laika 1 Modifier MinimalFunctional;
-#spawnitem Laika_Body_Front 1;
-#spawnitem Laika_Body_Left 1;
-#spawnitem Laika_Body_Right 1;
-#spawnitem Laika_Body_Top 1;
+#SpawnVehicle BPC_Laika 1;
