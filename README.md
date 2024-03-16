@@ -9,7 +9,9 @@ Hier auf der Github Seite am rechten Rand auf Releases gehen und dort das neuest
 ## Importieren der Seiten
 Im Touch Portal auf eurem Rechner einfach auf das Zahrad --> Seite Importieren
 ![image](https://github.com/Agent772/TP-SCUM-Commands/assets/9315914/bb1fef94-9221-4d3f-b320-a89b4981fd6c)
-Dann die heruntergeladene Datei auswählen und Importieren
+Dann die heruntergeladene Datei auswählen und Importieren.
+Richtet auf eurer Main seite einen Button mit Navigation ein und Navigiert zur SCUM Seite.
+Bitte setzt auch die Naviagtion für die Auto und CS Seite erneut in den Buttons (Dies ist aktuell verbugged in TP)
 
 ## Benutzing Ingame
 Dies ist so programmiert, das ihr das Spiel offen und im Fokus habt, der Chat aber geschlossen ist!!
