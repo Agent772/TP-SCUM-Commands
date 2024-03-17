@@ -13,7 +13,7 @@ Dann die heruntergeladene Datei auswählen und Importieren.
 Richtet auf eurer Main seite einen Button mit Navigation ein und Navigiert zur SCUM Seite.
 Bitte setzt auch die Naviagtion für die Auto und CS Seite erneut in den Buttons (Dies ist aktuell verbugged in TP)
 
-## Benutzing Ingame
+## Benutzung Ingame
 Dies ist so programmiert, das ihr das Spiel offen und im Fokus habt, der Chat aber geschlossen ist!!
 
 ## General SCUM Page
