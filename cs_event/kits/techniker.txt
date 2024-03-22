@@ -11,7 +11,7 @@
 #spawnitem Knife_Sheath 1;
 #spawnitem MilitaryBoots_JNA 1;
 #spawnitem Weapon_MP5_K 1;
-#spawnitem Magazine_MP5 10;
+#spawnitem Magazine_MP5 10 AmmoCount 50;
 #spawnitem MP5_Rail_Short 1;
 #spawnitem WeaponSuppressor_MP5 1;
 #spawnitem Police_Backpack_02 1;
@@ -26,7 +26,7 @@
 #spawnitem Screwdriver 1;
 #spawnitem WeaponSights_Sentry_RDRS 1;
 #spawnitem Weapon_SF19 1;
-#spawnitem Magazine_SF19 5;
+#spawnitem Magazine_SF19 5 AmmoCount 50;
 #spawnitem Shemagh_Scarf_01 1;
 #spawnitem Screwdriver_Small 3;
 #spawnitem Tactical_Sunglasses_01 1;

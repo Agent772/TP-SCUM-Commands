@@ -7,7 +7,7 @@
 #spawnitem 1H_Bushman 1;
 #spawnitem Military_Backpack_02_01 1;
 #spawnitem Weapon_CarbonHunter 1;
-#spawnitem Magazine_CarbonHunter 6;
+#spawnitem Magazine_CarbonHunter 6 AmmoCount 50;
 #spawnitem MRE_Cheeseburger 1;
 #spawnitem CombatBoots 1;
 #spawnitem Combat_Helmet_01 1;
@@ -15,7 +15,7 @@
 #spawnitem Improvised_Sewing_kit 2;
 #spawnitem Improvised_Water_container 1;
 #spawnitem Weapon_M1911_Engraved 1;
-#spawnitem Magazine_M1911 12;
+#spawnitem Magazine_M1911 12 AmmoCount 50;
 #spawnitem Weapon_Parts_M1911 1;
 #spawnitem Knife_Sheath 1;
 #spawnitem Military_Goggles_01 1;

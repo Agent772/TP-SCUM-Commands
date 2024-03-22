@@ -11,9 +11,9 @@
 #spawnitem CombatBoots 1;
 #spawnitem Combat_Helmet_01 1;
 #spawnitem Improvised_Water_container 1;
-#spawnitem Magazine_M16 12;
+#spawnitem Magazine_M16 12 AmmoCount 50;
 #spawnitem Weapon_M16A4 1;
-#spawnitem Magazine_M9 5;
+#spawnitem Magazine_M9 5 AmmoCount 50;
 #spawnitem WeaponSuppressor_Handgun 1;
 #spawnitem Knife_Sheath 1;
 #spawnitem Military_Goggles_01 1;
