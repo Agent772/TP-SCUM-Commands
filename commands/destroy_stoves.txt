@@ -1,3 +1,5 @@
 #DestroyAllItemsWithinRadius Portable_Gas_Stove 1;
 #DestroyAllItemsWithinRadius Portable_Electric_Stove 1;
 #DestroyAllItemsWithinRadius GrillGrid 1;
+#DestroyAllItemsWithinRadius Pot1 1;
+#DestroyAllItemsWithinRadius Pan 1;
