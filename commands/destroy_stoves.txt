@@ -3,3 +3,4 @@
 #DestroyAllItemsWithinRadius GrillGrid 1;
 #DestroyAllItemsWithinRadius Pot1 1;
 #DestroyAllItemsWithinRadius Pan 1;
+#DestroyAllItemsWithinRadius GasTank 1;
