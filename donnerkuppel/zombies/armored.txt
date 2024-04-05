@@ -1,0 +1,2 @@
+BP_Zombie_Military_Armored;
+BP_Zombie_Police_Armored;

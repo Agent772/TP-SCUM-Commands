@@ -1,0 +1,2 @@
+BP_Zombie_Civilian_Skinny_Female;
+BP_Zombie_Civilian_Skinny_Male;
