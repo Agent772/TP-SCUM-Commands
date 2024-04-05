@@ -1,0 +1,52 @@
+@import url(https://www.power.flexyscore.net/dirette/temp/css/schema.css);
+@import url(https://fonts.cdnfonts.com/css/american-captain);
+/*----- classi comuni ------*/
+* {-webkit-backface-visibility: hidden;overflow:hidden;margin:-1px;}
+.container {display:grid; color:white; font-family: 'American Captain';}
+.box, .space {display:flex; justify-content:center; align-items:center;  padding: 0 .5em; -webkit-transform:skew(15deg, 0); transform:skew(15deg, 0); font-style:italic;}
+.box {font-size: 4vw;}
+.space {padding:0 .08em;}
+.boxteams {background:#0E5598; min-width: 200px;}
+.boxteams:before {content: "";margin: 0 60 0 0}
+.boxhometeam {background: #d5fb00; color: #000000} 
+.boxawayteam {background:#0E5598;}
+.boxpoints, .space {background:#808080;}
+.boxhomepoints {padding-right:.8vw; border-left: solid .1em rgba(0,0,0,0.5); justify-content:flex-end;}
+.boxawaypoints {padding-left:.8vw; border-right: solid .1em rgba(0,0,0,0.5); justify-content:flex-start;}
+.boxawayteam {border-right: solid .1em rgba(0,0,0,0.5);}
+.boxsets {background:#3694EC; color:#052647;}
+.sgrlogo {background-size: auto 80% !important;display: none;}
+.sgrlogo:before {display:none;}
+
+/*---------- FOOTBALL --------*/
+.containerfootball {float:left; width:auto; overflow:visible; grid-template: auto 1vw / 1vw auto minmax(2vw, auto) auto minmax(5vw, auto) auto minmax(13vw, auto) 12vw 8vw 12vw; font-size:2.6vw;}
+
+.containerfootball .sgrlogo {grid-column: 1/2; grid-row: 1/2;}
+.containerfootball .boxhometeam{grid-column: 2/3; grid-row: 1/2;}
+.containerfootball .boxawayteam{grid-column: 6/7; grid-row: 1/2;}
+.containerfootball .boxhomepoints{grid-column: 3/4; grid-row: 1/2;}
+.containerfootball .boxawaypoints{grid-column: 5/6; grid-row: 1/2;}
+.containerfootball .space{grid-column: 4/5; grid-row: 1/2;}
+.containerfootball .boxtimer{grid-column: 8/9; grid-row: 1/2;}
+.containerfootball .boxattempts {grid-column: 7/8; grid-row: 1/2;}
+.containerfootball .boxmoment{grid-column: 9/10; grid-row: 1/2;}
+.containerfootball .timeoutshome {grid-column: 2/3; grid-row: 2/3;}
+.containerfootball .timeoutsaway {grid-column: 6/7; grid-row: 2/3;}
+.containerfootball .boxfoul {grid-column: 10/11; grid-row: 1/2;}
+.containerfootball .boxmoment {background: #808080;color: white; font-style:normal;}
+em {margin-right: 2px;}
+.boxhomepoints {letter-spacing: 0.1em;}
+.boxawaypoints {letter-spacing: 0.1em;}
+.boxyards {letter-spacing: 0.05em;}
+
+
+.containerfootball .boxteams {white-space:nowrap;}
+.containerfootball .boxattempts {background:#808080;}
+.containerfootball .boxattempts span {padding:0 .1em; transform: skew(-15deg); font-style:normal;}
+
+.containerfootball .boxfoulon {background:yellow; color:#333;}
+.containerfootball .boxfoulon:before {content:"FLAG";}
+.containerfootball .containertimeouts {display:flex; justify-content:flex-start; gap:1vw; padding:0; transform: skew(15deg) translate(.7vw, .3vw);}
+.containerfootball .timeoutshome .boxon {background:#d5fb00;}
+.containerfootball .timeoutsaway .boxon {background:#3694EC;}
+.containerfootball .boxtimeouts {padding:0; width: calc(80% / 3); background:transparent;}
